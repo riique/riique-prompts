@@ -7,6 +7,7 @@ Coleção de prompts para agentes de IA com acesso a terminal (Claude Code, Code
 | Prompt | O que faz |
 |---|---|
 | [Auditoria completa de PC Windows](windows/analise-completa-pc-windows.md) | Analisa hardware, disco, desempenho, boot, rede, segurança, privacidade, estabilidade, backup e ambiente de dev de um PC Windows e entrega um relatório priorizado com o que corrigir. |
+| [Explicação Macaco-Caco](ensino/explicacao-macaco-caco.md) | Explica qualquer tema técnico com humor primata e didática de caverna, mantendo a precisão. Basta trocar o campo do tema pelo assunto desejado. |
 
 ## Como usar
 
